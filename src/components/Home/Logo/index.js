@@ -22,7 +22,7 @@ const Logo = () => {
             drawSVG: "0%",
         }, {
             drawSVG: "100%",
-            duration: 5, // Adjust the duration as needed
+            duration: 3, // Adjust the duration as needed
         });
     
         gsap.fromTo(
