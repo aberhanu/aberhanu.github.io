@@ -4,6 +4,7 @@ import gsap from 'gsap'
 import LogoS from '../../../assets/images/logo-s.png'
 import LogoA from '../../../assets/images/logo_A-removebg.png'
 import './index.scss'
+//Main branch
 
 const Logo = () => {
   const bgRef = useRef()
