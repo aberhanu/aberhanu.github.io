@@ -30,7 +30,7 @@ const About = () => {
                         />
                     </h1>
                     <p>I'm a very ambitious full-stack & software developer looking for a role in an established IT company with the opportunity to work with the latest technologies on challenging and diverse projects.</p>
-                    <p align="LEFT">I'm quiet confident, naturally curious, and constantly learning and imporoving myself.</p>
+                    <p align="LEFT">I'm confident, naturally curious, and constantly learning and imporoving myself.</p>
                     <p>If I need to define myself in one sentence that would be a hard-working person, world traveler, a sports fanatic, a curious soul, and tech-obsessed!!!</p>
                 </div>
                 <div className='stage-cube-cont'>
